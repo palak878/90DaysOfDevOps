@@ -1,0 +1,5 @@
+DevOps is a cultural mindset where the operations and development teams 
+  collaborate to bridge the gap between code and production. 
+The aim is to reduce time-to-market, automate repetitive tasks, and scale efficiently for end users. 
+Cloud Engineering provides the platforms, such as AWS, Azure, and GCP, to perform these DevOps 
+  operations
