@@ -1,7 +1,7 @@
-Linux Command Toolkit
+👉Linux Command Toolkit
 
 
-Process Management
+💡Process Management
 top: Displays real-time view of system processes.
 
 ps aux: Lists every running process on the system with user and memory details.
@@ -12,7 +12,7 @@ systemctl: Checks whether background services (like Nginx) are active or not.
 
 lsof -i :80: "List of Open Files"—shows which process is using a specific port.
 
-File System
+💡File System
 pwd: Shows the full path of your current directory.
 
 ls -la: Lists all files, including hidden ones.
@@ -27,7 +27,7 @@ du -sh: Shows the total size of the current directory.
 
 chmod 400 [file]: Sets restrictive permissions (Standard for AWS .pem keys).
 
-Networking Troubleshooting
+💡Networking Troubleshooting
 ip addr show: Displays all network interfaces and their assigned IP addresses.
 
 ping [host]: Checks if a remote server is reachable.
