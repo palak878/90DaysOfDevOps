@@ -1,4 +1,6 @@
-Linux Command Toolkit: DevOps Essentials
+Linux Command Toolkit
+
+
 Process Management
 top: Displays real-time view of system processes.
 
