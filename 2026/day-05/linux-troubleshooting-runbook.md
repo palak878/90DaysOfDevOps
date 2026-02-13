@@ -1,7 +1,3 @@
-I have organized your drill data into a clear, structured report. I kept your exact data, commands, and observations intact, only adding headers to make each section clearly visible.
-
----
-
 ## 🛠️ **Troubleshooting Drill: SSH Service**
 
 ### **1. Environment Basics**
@@ -106,6 +102,4 @@ I have organized your drill data into a clear, structured report. I kept your ex
 
 
 
----
 
-**Would you like me to show you how to automate these exact commands into a "Health Check" script for your future projects?**
